@@ -1,16 +1,13 @@
 tap "homebrew/bundle"
 cask "1password"
 cask "1password-cli"
+cask "azure-data-studio"
 cask "discord"
 cask "iterm2"
 cask "displaylink"
 cask "firefox@esr"
-cask "powershell"
 cask "imazing-profile-editor"
-cask "microsoft-auto-update"
-cask "microsoft-edge"
-cask "microsoft-office"
-cask "microsoft-teams"
+cask "powershell"
 cask "remote-desktop-manager"
 cask "remoteviewer"
 cask "signal"
@@ -26,3 +23,10 @@ cask "windows-app"
 
 Missing:
 netbird
+
+From CP:
+cask "microsoft-auto-update"
+cask "microsoft-edge"
+cask "microsoft-office"
+cask "microsoft-teams"
+
